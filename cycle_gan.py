@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-DeNA提出用
 Cycle GAN
 
 photo-現実の写真
 monet-画家の書いた絵
 
 photoをmonet風に画風変換
+kaggleのデータセットを使用
 
 """
 
